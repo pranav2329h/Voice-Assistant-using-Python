@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/voice-assistant-python.git
+git clone https://github.com/pranav2329h/voice-assistant-using-python.git
 cd voice-assistant-python
 Install required libraries:
 
